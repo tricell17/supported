@@ -232,5 +232,14 @@
     "nameAddress": "01471CD8",
     "hpAddressPointer": 21426828,
     "nameAddressPointer": 21437656
+  },
+    {
+    "index": 0,
+    "name": "Noob RO",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
   }
 ]
