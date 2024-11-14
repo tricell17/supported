@@ -1,15 +1,6 @@
 [
   {
     "index": 0,
-    "name": "RagnarokGOD",
-    "description": null,
-    "hpAddress": "011D0A14",
-    "nameAddress": "011D33F8",
-    "hpAddressPointer": 18680340,
-    "nameAddressPointer": 18691064
-  },
-  {
-    "index": 0,
     "name": "Norse-Online",
     "description": null,
     "hpAddress": "010DCE10",
