@@ -232,5 +232,14 @@
     "nameAddress": "0113B7B0",
     "hpAddressPointer": 18058716,
     "nameAddressPointer": 18069424
+  },
+    {
+    "index": 0,
+    "name": "rom",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
   }
 ]
