@@ -241,5 +241,14 @@
     "nameAddress": "010DF5D8",
     "hpAddressPointer": 17681936,
     "nameAddressPointer": 17692120
+  },
+    {
+    "index": 0,
+    "name": "client",
+    "description": "WoV4Rtools",
+    "hpAddress": "0x011D1A04",
+    "nameAddress": "0x011D43E8",
+    "hpAddressPointer": 18684420,
+    "nameAddressPointer": 18695144
   }
 ]
