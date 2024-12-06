@@ -242,7 +242,7 @@
     "hpAddressPointer": 17681936,
     "nameAddressPointer": 17692120
   },
-    {
+  {
     "index": 0,
     "name": "client",
     "description": "WoV4Rtools",
@@ -250,5 +250,14 @@
     "nameAddress": "0x011D43E8",
     "hpAddressPointer": 18684420,
     "nameAddressPointer": 18695144
+  },
+  {
+    "index": 0,
+    "name": "CivilWarRO",
+    "description": null,
+    "hpAddress": "00E8E434",
+    "nameAddress": "00E90C00",
+    "hpAddressPointer": 15262772,
+    "nameAddressPointer": 15272960
   }
 ]
