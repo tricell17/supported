@@ -259,5 +259,14 @@
     "nameAddress": "00E90C00",
     "hpAddressPointer": 15262772,
     "nameAddressPointer": 15272960
+  },
+    {
+    "index": 0,
+    "name": "EndlessRO",
+    "description": null,
+    "hpAddress": "011D1A04",
+    "nameAddress": "011D43E8",
+    "hpAddressPointer": 18684420,
+    "nameAddressPointer": 18695144
   }
 ]
