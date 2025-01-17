@@ -268,5 +268,14 @@
     "nameAddress": "011D43E8",
     "hpAddressPointer": 18684420,
     "nameAddressPointer": 18695144
+  },
+    {
+    "index": 0,
+    "name": "GOD EXTREME",
+    "description": null,
+    "hpAddress": "00F4942C",
+    "nameAddress": "00F42128",
+    "hpAddressPointer": 16028716,
+    "nameAddressPointer": 15999272
   }
 ]
