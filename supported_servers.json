@@ -286,5 +286,14 @@
     "nameAddress": "01133BD8",
     "hpAddressPointer": 18684420,
     "nameAddressPointer": 18695144
+  },
+  {
+    "index": 0,
+    "name": "Trinity2.0",
+    "description": null,
+    "hpAddress": "00E4CAE4",
+    "nameAddress": "00E4D758",
+    "hpAddressPointer": 14994148,
+    "nameAddressPointer": 14997336
   }
 ]
