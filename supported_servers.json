@@ -295,5 +295,14 @@
     "nameAddress": "00E4D758",
     "hpAddressPointer": 14994148,
     "nameAddressPointer": 14997336
+  },
+  {
+    "index": 0,
+    "name": "SaigoNoRagna",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
   }
 ]
