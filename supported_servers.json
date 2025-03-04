@@ -304,5 +304,14 @@
     "nameAddress": "0113B7B0",
     "hpAddressPointer": 18058716,
     "nameAddressPointer": 18069424
-  }
+  },
+  {
+    "index": 0,
+    "name": "BattleRO",
+    "description": null,
+    "hpAddress": "0157EFE4",
+    "nameAddress": "01581C30",
+    "hpAddressPointer": 22540260,
+    "nameAddressPointer": 22551600
+  },
 ]
