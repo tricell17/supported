@@ -314,4 +314,13 @@
     "hpAddressPointer": 22540260,
     "nameAddressPointer": 22551600
   },
+  {
+    "index": 0,
+    "name": "OBSIDIAN-RO",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
+  }
 ]
