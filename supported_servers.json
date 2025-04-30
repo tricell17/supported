@@ -340,5 +340,14 @@
     "nameAddress": "01133BD8",
     "hpAddressPointer": 18027012,
     "nameAddressPointer": 18037720
+  },
+  {
+    "index": 0,
+    "name": "Cyber",
+    "description": null,
+    "hpAddress": "01017F38",
+    "nameAddress": "0101A6E0",
+    "hpAddressPointer": 16875320,
+    "nameAddressPointer": 16885472
   }
 ]
