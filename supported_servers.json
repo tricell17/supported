@@ -349,5 +349,14 @@
     "nameAddress": "0101A6E0",
     "hpAddressPointer": 16875320,
     "nameAddressPointer": 16885472
+  },
+  {
+    "index": 0,
+    "name": "ROBGV2",
+    "description": null,
+    "hpAddress": "015D43F8",
+    "nameAddress": "01570C90",
+    "hpAddressPointer": 22889464,
+    "nameAddressPointer": 22482064
   }
 ]
