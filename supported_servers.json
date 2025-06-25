@@ -358,5 +358,14 @@
     "nameAddress": "01570C90",
     "hpAddressPointer": 22889464,
     "nameAddressPointer": 22482064
+  },
+  {
+    "index": 0,
+    "name": "ZodiacERARO",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
   }
 ]
