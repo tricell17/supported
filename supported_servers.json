@@ -394,5 +394,14 @@
     "nameAddress": "0113B7B0",
     "hpAddressPointer": 18058716,
     "nameAddressPointer": 18069424
+  },
+    {
+    "index": 0,
+    "name": "GabutRO",
+    "description": null,
+    "hpAddress": "01131204",
+    "nameAddress": "01133BD8",
+    "hpAddressPointer": 18027012,
+    "nameAddressPointer": 18037720
   }
 ]
